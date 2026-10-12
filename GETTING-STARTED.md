@@ -49,7 +49,7 @@ The PDF report records information about the signed software file. It is not a P
 
 **Will signing eliminate security warnings?** No. A signature identifies the publisher on the certificate and helps detect changes. Windows, Microsoft Store, antivirus vendors, and other platforms apply their own acceptance and reputation policies.
 
-**Is it in Microsoft Store?** Submission is awaiting approval. The free direct installer is available now.
+**Is it in Microsoft Store?** Yes. [Get ArtifactTrust Pro GUI from Microsoft Store](https://apps.microsoft.com/detail/xp8lcmjczs31dn?hl=en-US&gl=US), or use the free direct installer from the [official download page](https://trustprogui.com/download.html).
 
 ## Silent deployment
 
