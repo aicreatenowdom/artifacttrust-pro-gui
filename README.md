@@ -97,7 +97,7 @@ Include your app version, Windows version, and error message. Remove passwords, 
 
 This repository contains product documentation and artwork for proprietary software; application source code is not included. GitHub’s **Code → Download ZIP** downloads these repository files. Use the Windows installer linked above to get the application. Free availability does not change the application’s ownership or the licenses of bundled components.
 
-The repository URL is retained so existing links continue to work.
+The official repository is [aicreatenowdom/artifacttrust-pro-gui](https://github.com/aicreatenowdom/artifacttrust-pro-gui), matching the current product name.
 
 ---
 
