@@ -32,7 +32,7 @@ Remove passwords, authentication codes, tokens, private file contents, and other
 
 ## Downloads, policies, and repository contents
 
-ArtifactTrust Pro GUI is free for everyone; optional donations are not required for use. Microsoft service costs are separate. The Microsoft Store submission is awaiting approval; use the [official direct download](https://download.aicreatenow.com/software/ArtifactTrustPro3.1.0microsoft.exe) for the current Windows installer.
+ArtifactTrust Pro GUI is free for everyone; optional donations are not required for use. Microsoft service costs are separate. ArtifactTrust Pro GUI is [available on Microsoft Store](https://apps.microsoft.com/detail/xp8lcmjczs31dn?hl=en-US&gl=US). You can also use the [official direct download](https://download.aicreatenow.com/software/ArtifactTrustPro3.1.0microsoft.exe) for the current Windows installer.
 
 GitHub's **Code → Download ZIP** contains this repository's product documentation and artwork, not the application or its source code.
 
