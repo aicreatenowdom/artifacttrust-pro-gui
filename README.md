@@ -85,8 +85,6 @@ No purchase or donation is required to download, install, or use ArtifactTrust P
 
 **Microsoft Store:** [ArtifactTrust Pro GUI is available on Microsoft Store](https://apps.microsoft.com/detail/xp8lcmjczs31dn?hl=en-US&gl=US). The free direct Windows installer is also available above.
 
-Release notes published before Store approval may retain the earlier submission status. The links in this README provide the current download channels.
-
 ## Help and contact
 
 [Getting Started](GETTING-STARTED.md) · [Support](SUPPORT.md) · [Setup & Help](https://trustprogui.com/help.html)
