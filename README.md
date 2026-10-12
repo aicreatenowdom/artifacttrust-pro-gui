@@ -83,7 +83,9 @@ No purchase or donation is required to download, install, or use ArtifactTrust P
 
 **[Download the free Windows installer](https://download.aicreatenow.com/software/ArtifactTrustPro3.1.0microsoft.exe)** · **[Buy us a coffee](https://buy.stripe.com/6oUeVf77ZdRCfMEbka5kk04)**
 
-**Microsoft Store:** Submission is awaiting approval. The free website download is available now.
+**Microsoft Store:** [ArtifactTrust Pro GUI is available on Microsoft Store](https://apps.microsoft.com/detail/xp8lcmjczs31dn?hl=en-US&gl=US). The free direct Windows installer is also available above.
+
+Release notes published before Store approval may retain the earlier submission status. The links in this README provide the current download channels.
 
 ## Help and contact
 
